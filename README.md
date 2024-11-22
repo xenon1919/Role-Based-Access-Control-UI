@@ -27,12 +27,13 @@ Ensure you have the following installed on your machine:
    git clone https://github.com/your-username/rbac-ui.git
    cd rbac-ui
 
-   Install dependencies:
+2. Install dependencies:
+   ```bash
+   npm install
 
-npm install
-Run the frontend:
-
-npm start
-Open your browser and navigate to http://localhost:3000 to view the app.
+3. Run the frontend:
+   ```bash
+   npm start
+4. Open your browser and navigate to http://localhost:3000 to view the app.
 
 
